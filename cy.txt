@@ -1,0 +1,217 @@
+点播：
+神马资源,http://www.zitv.cc/api.php/provide/vod/at/xml/,不解析
+极品资源,https://www.jpysvip.net/api.php/provide/vod/at/xml/,解析
+KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
+饭团资源,https://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
+39影视,https://www.39kan.com/api.php/provide/vod/at/xml,不解析
+安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
+M3U8TV,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,解析
+快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
+1717云,http://zy.itono.cn/inc/api.php,解析
+腾讯视频资源,http://zy.itono.cn/inc/qq.php,解析
+奇艺视频资源,http://zy.itono.cn/inc/qiyi.php，解析
+搜狐视频资源,http://zy.itono.cn/inc/sohu.php,解析
+优酷视频资源,http://zy.itono.cn/inc/youku.php，解析
+乐视视频资源,http://zy.itono.cn/inc/letv.php,解析
+结束
+
+解析：
+Parwix解析,https://vip.parwix.com:4433/player/?url=
+全网解析,https://jjxx.me/?url=
+千亿解析,https://www.qianyicp.com/jiexi/index.php?url=
+久播解析,https://jx.yingxiangbao.cn/vip.php?url=
+爱酷解析,https://www.ikukk.com/?url=
+思古解析,https://www.2692222.com/?url=
+H8解析,https://www.h8jx.com/jiexi.php?url=
+七哥解析,http://jx.mmkv.cn/tv.php?url=
+麻瓜解析,http://player.maguays.cc/?url=
+虾米解析,https://jx.xmflv.com/?url=
+8090解析,https://www.8090.la/8090/?url=
+OK解析,https://okjx.cc/?url=
+在线解析,http://www.xyjun.com/vip/?url=
+M1907解析,https://z1.m1907.cn/?eps=0&jx=
+playm3u8解析,https://www.playm3u8.cn/jiexi.php?url=
+jsonm3u8解析,https://json.m3u8.tv:7788/json.php?url=
+鲨鱼解析,https://www.mgtv.com.favnow.com/?token=sharktv&v=
+解析解析,https://z11907/?jx=
+4z解析,https://jf.4z.cm/jx/?url=
+结束
+
+直播：
+【分类头】一点点-央视-卫视-速度与激情-轮番【分类尾】
+【一点点头】
+AOD-HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+爱奇艺,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+绿洲,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8 
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+HBO 高清,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
+HBO,http://198.16.106.62:8278//streams/d/sundance_twn/playlist.m3u8 
+TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+【一点点尾】
+【央视头】
+CCTV1综合,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?/tyzb00.php?id=01
+CCTV2财经,http://111.12.101.23:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV3综艺,http://111.12.101.23:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV4国际,http://111.12.101.23:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV5体育,http://111.12.101.23:6610/PLTV/77777777/224/3221225516/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV5⁺体育赛事,http://111.12.101.23:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV5⁺体育赛事,http://111.12.101.23:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV6电影,http://111.12.101.23:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV7国防军事,http://111.12.101.23:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV8电视剧,http://111.12.101.23:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV9记录,http://111.12.101.23:6610/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV10科教,http://111.12.101.23:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV12社会与法,http://111.12.101.23:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV13新闻,http://111.12.101.23:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV14少儿,http://111.12.101.23:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV15音乐,http://111.12.101.23:6610/PLTV/77777777/224/3221225830/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV17农业农村,http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+央视第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+央视怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+央视风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+央视风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+央视风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+央视世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/01.m3u8?fmt=ts2hls
+央视女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls 
+CETV1,http://61.189.255.139/live.aishang.ctlcdn.com/00000110240243_1/encoder/0/playlist.m3u8?CONTENTID=00000110240243_1
+【央视尾】
+【卫视头】
+湖南卫视高清,http://39.135.34.150：8080/000000001000/1000000001000009115 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000009115＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000009115＆owchid = ystenlive＆owsid = 1106497909461209970＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf％2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K %2bdNVn%2bMR4
+北京卫视高清,http://39.135.34.150：8080/000000001000/1000000001000017156 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000017156＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000017156＆owchid = ystenlive＆owsid = 1106497909461249865＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV％2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
+浙江卫视高清,http://39.135.34.150：8080/000000001000/1000000001000009806 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000009806＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000009806＆owchid = ystenlive＆owsid = 1106497909461218392＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
+江苏卫视高清,http://39.135.34.150：8080/000000001000/1000000001000004684 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000004684＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000004684＆owchid = ystenlive＆owsid = 1106497909461243101＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR80rubnSCCYHmxBfxTMKdNm％2BH %2bLn%2bBGibQYrxMgSwIzfH44Sn0OHT9L7pQFHxSW%2fJ
+东方卫视高清,http://39.135.34.150：8080/000000001000/1000000001000030202 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000030202＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000030202＆owchid = ystenlive＆owsid = 1106497909461236159＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk％2B6a %2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5
+安徽卫视高清,http://39.135.34.150：8080/000000001000/4774346722046993363 / 1.m3u8通道-ID = ystenlive＆内容识别= 4774346722046993363＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 4774346722046993363＆owchid = ystenlive＆owsid = 1106497909461303710＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6rtwuCbF0UBw1ECKohiyVXtAaM2LAoJTgBkO9sqSP7vGKF4XQrqmpBPeC9CblENbpBoei4M1GZJUNAFlnpSFVM
+黑龙江卫视高清,http://39.135.34.150：8080/000000001000/8467838254824392379 / 1.m3u8通道-ID = ystenlive＆内容识别= 8467838254824392379＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 8467838254824392379＆owchid = ystenlive＆owsid = 1106497909461358444＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5eLzTptYlaHwBbi5jFcfGGajSKACYh％2bxMIkH12jcM41WvzLTRYworzrZ3FKkyeJf %2fWTgBHYgXtjL76Tybav9u%2b
+辽宁卫视高清,http://39.135.34.150：8080/000000001000/1000000002000024033 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000024033＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000024033＆owchid = ystenlive＆owsid = 1106497909461352974＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQBci％2f2KtFqbPb5lYHzQlehPnBUBV7gDU5NsQ1fq2DyLArxZhG %2bC4a49jTs%2bwbEKo
+深圳卫视高清,http://39.135.34.150：8080/000000001000/1000000001000011645 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000011645＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000011645＆owchid = ystenlive＆owsid = 1106497909461286475＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRi％2fGQBc72yY6Quo0JMFE7sAOH9P3BRKKjlume5S4R4Q4D5A %2fuxi3rN%2bHd%2bNxeQD8d
+广东卫视高清,http://39.135.34.150：8080/000000001000/1000000001000028357 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000028357＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000028357＆owchid = ystenlive＆owsid = 1106497909461262352＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY％2fTje83gAnl %2fZNkb%2b
+天津卫视高清,http://39.135.34.150：8080/000000001000/1000000001000000831 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000000831＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000000831＆owchid = ystenlive＆owsid = 1106497909461255731＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
+湖北卫视高清,http://39.135.34.150：8080/000000001000/6956052407855047826 / 1.m3u8通道-ID = ystenlive＆内容识别= 6956052407855047826＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 6956052407855047826＆owchid = ystenlive＆owsid = 1106497909461296919＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z％2bo9LRgIMhzyly %2bN8KnqBuGO27GhSxZzEXYI6euRzJ3HshWQhVCNxJrt91pPA8t7cjGpkhpIVoXJ0Jyemr0DA
+山东卫视高清,http://39.135.34.150：8080/000000001000/1000000001000012807 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000012807＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000012807＆owchid = ystenlive＆owsid = 1106497909461291586＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt％2by66pvMI %2bkz57DAkgjzetftIzpJRR8Rwa0K
+重庆卫视高清,http://39.135.34.150：8080/000000001000/1000000002000018937 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000018937＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000018937＆owchid = ystenlive＆owsid = 1106497909461333042＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7％2bGPbWnsToB9Z5BcGamUzvzuTi
+陕西卫视,http://39.135.34.150：8080/000000001000/1000000002000007495 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000007495＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000007495＆owchid = ystenlive＆owsid = 1106497909461393057＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT％2F4％ 2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
+吉林卫视,http://39.135.34.150：8080/000000001000/6042486520432105075 / 1.m3u8通道-ID = ystenlive＆内容识别= 6042486520432105075＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 6042486520432105075＆owchid = ystenlive＆owsid = 1106497909461400661＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9％2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06％ 2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
+广西卫视,http://39.135.34.150：8080/000000001000/1000000002000019837 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000019837＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000019837＆owchid = ystenlive＆owsid = 1106497909461204271＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhsj2zH％2fW8kf2eLOhwcRnwEP0％ 2bGJue26Xi8vK8GznvuoMqhqMjEnqzE06kO4aZ9KPy
+河北卫视,http://39.135.34.150：8080/000000001000/1000000002000017118 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000017118＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000017118＆owchid = ystenlive＆owsid = 1106497909461347463＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhCqGL1zPomfLadkujcaGzSGdRg4tEgiolyrwzgikVtMZiTQsF6T0wJRw9axwi4LXY
+西藏卫视,http://39.135.34.150：8080/000000001000/6603041244077933770 / 1.m3u8通道-ID = ystenlive＆内容识别= 6603041244077933770＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 6603041244077933770＆owchid = ystenlive＆owsid = 1106497909461425998＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
+内蒙古卫视,http://39.135.34.150：8080/000000001000/1000000002000014080 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000014080＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000014080＆owchid = ystenlive＆owsid = 1106497909461412819＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhN3VZo％2fq60rUnbic％ 2fTx5hxEUA%2fCrpP4GEvV3vfXDDDKv4OC8OhxCTOd9DFYTiOuf7
+青海卫视,http://39.135.34.150：8080/000000001000/1000000002000013359 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000013359＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000013359＆owchid = ystenlive＆owsid = 1106497909461374163＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3％2bnCiQyrISnc％ 2fLQjwPdTUSlBahL%2bKNKpM
+四川卫视,http://39.135.34.150：8080/000000001000/1000000002000016825 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000016825＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000016825＆owchid = ystenlive＆owsid = 1106497909461321397＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhwC686TkK％2f3k22PorZBLr8k69BtHofhbIyPVBrp9KppkHStTOpUrH7YEsmM6BR8Uo
+山西卫视,http://39.135.34.150：8080/000000001000/1000000002000021220 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000021220＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000021220＆owchid = ystenlive＆owsid = 1106497909461381684＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhBGE2Bozg3VsjEsUfSwW1u％2f9d7qakC2cNwU6d3XLtivLzsKwupm4i1w5mp8nPnKP8
+新疆卫视,http://39.135.34.150：8080/000000001000/1000000002000029441 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000029441＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000029441＆owchid = ystenlive＆owsid = 1106497909461419044＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0％2bmFOeDvrFW
+云南卫视,http://39.135.34.150：8080/000000001000/1000000002000024694 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000024694＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000024694＆owchid = ystenlive＆owsid = 1106497909461387812＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA％2fwzvDSa％ 2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
+江西卫视,http://39.135.34.150：8080/000000001000/1000000001000013731 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000001000013731＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000001000013731＆owchid = ystenlive＆owsid = 1106497909461316198＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV％2bYcygMME6A9OMzcDPgMD6e％ 2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
+福建东南卫视,http://39.135.34.150：8080/000000001000/1000000002000009263 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000009263＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000009263＆owchid = ystenlive＆owsid = 1106497909461310172＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY％2ff447 %2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
+贵州卫视,http://39.135.34.150：8080/000000001000/1000000002000003169 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000003169＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000003169＆owchid = ystenlive＆owsid = 1106497909461328035＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
+甘肃卫视,http://39.135.34.150：8080/000000001000/1000000002000017827 / 1.m3u8通道-ID = ystenlive＆内容识别= 1000000002000017827＆livemode = 1＆stbId = 005203FF000360100001001A34C0CD33＆userToken = bd8bb70bdb2b54bd84b587dffa024f7621vv＆用户群组= g21077200000＆版本= 1.0＆owaccmark = 1000000002000017827＆owchid = ystenlive＆owsid = 1106497909461366475＆AUTHINFO = yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze％2fWmzecpyT4Tmxoc1paT1vcrQhVS
+【卫视尾】
+【速度与激情头】
+激情1,https://cdn2.bzjupinhang.com:65/20210523/u55gF3Mv/1500kb/hls/index.m3u8
+速度B,https://cdn.zoubuting.com/20210630/6BCGYwpg/1200kb/hls/playlist.m3u8
+激情2,https://cdn.zoubuting.com/20210630/UFuWNj8f/1200kb/hls/playlist.m3u8
+激情3,https://cdn2.bzjupinhang.com:65/20210523/zoqbKNTw/1500kb/hls/index.m3u8
+激情4,https://cdn.zoubuting.com/20210630/rXPI0ujD/1200kb/hls/playlist.m3u8
+激情5,https://cdn2.bzjupinhang.com:65/20210523/ZjRjlzj0/1500kb/hls/index.m3u8
+激情6,https://cdn2.bzjupinhang.com:65/20210523/ON6nJxWV/1500kb/hls/index.m3u8
+激情7,https://cdn2.bzjupinhang.com:65/20210523/b2Y5d8Hg/1500kb/hls/index.m3u8
+激情8,https://cdn2.bzjupinhang.com:65/20210523/ThWFsKCf/1500kb/hls/index.m3u8
+激情9,https://cdn1.sinongseed.com:65/20210731/QmCd3hde/2137kb/hls/index.m3u8
+【速度与激情尾】
+【轮番头】
+周星驰,http://vip.auney.cn/api/huya.php?id=11342412
+林正英,http://vip.auney.cn/api/huya.php?id=11342421
+成龙,http://vip.auney.cn/api/huya.php?id=11342386
+李连杰,http://vip.auney.cn/api/huya.php?id=11342390
+赌片,http://vip.auney.cn/api/huya.php?id=11342399
+黑帮,http://vip.auney.cn/api/huya.php?id=11336719
+吴京,http://vip.auney.cn/api/huya.php?id=11602045
+科幻动作,http://vip.auney.cn/api/huya.php?id=11352964
+国产喜剧,http://vip.auney.cn/api/huya.php?id=11602044
+丧尸,http://vip.auney.cn/api/huya.php?id=11352962
+五福星,http://vip.auney.cn/api/huya.php?id=11282233
+甄子丹,http://vip.auney.cn/api/huya.php?id=11352935
+卧底警匪,http://vip.auney.cn/api/huya.php?id=11352886
+周润发,http://vip.auney.cn/api/huya.php?id=11342387
+变形金刚,http://vip.auney.cn/api/huya.php?id=11342433
+沈腾,http://vip.auney.cn/api/huya.php?id=11601968
+盗墓系列,http://vip.auney.cn/api/huya.php?id=11352913
+洪金宝,http://vip.auney.cn/api/huya.php?id=11342427
+灾难电影,http://vip.auney.cn/api/huya.php?id=11352871
+终结者电影,http://vip.auney.cn/api/huya.php?id=11352979
+徐峥,http://vip.auney.cn/api/huya.php?id=11602043
+漫威,http://vip.auney.cn/api/huya.php?id=11602075
+刘德华,http://vip.auney.cn/api/huya.php?id=11342424
+韩国犯罪动作,http://vip.auney.cn/api/huya.php?id=11601956
+速度与激情,http://vip.auney.cn/api/huya.php?id=11352949
+香港恐怖,http://vip.auney.cn/api/huya.php?id=11601960
+异性怪物,http://vip.auney.cn/api/huya.php?id=11352938
+历年贺岁档,http://vip.auney.cn/api/huya.php?id=11601986
+杰森斯坦森,http://vip.auney.cn/api/huya.php?id=11336572
+港产搞笑,http://vip.auney.cn/api/huya.php?id=11342423
+复仇者联盟,http://vip.auney.cn/api/huya.php?id=11602041
+惊悚,http://vip.auney.cn/api/huya.php?id=11342432
+黑帮电影,http://vip.auney.cn/api/huya.php?id=11342419
+史诗战争,http://vip.auney.cn/api/huya.php?id=11342435
+丧尸2,http://vip.auney.cn/api/huya.php?id=11342422
+粤语港片,http://vip.auney.cn/api/huya.php?id=11352894
+钢铁侠,http://vip.auney.cn/api/huya.php?id=11602034
+机甲电影,http://vip.auney.cn/api/huya.php?id=11352876
+猎奇电影,http://vip.auney.cn/api/huya.php?id=11601970
+韩国电影,http://vip.auney.cn/api/huya.php?id=11352880
+欧美特工,http://vip.auney.cn/api/huya.php?id=11602069
+加勒比海盗,http://vip.auney.cn/api/huya.php?id=11602046
+指环王,http://vip.auney.cn/api/huya.php?id=11352916
+哈利波特,http://vip.auney.cn/api/huya.php?id=11352906
+电锯惊魂,http://vip.auney.cn/api/huya.php?id=11342437
+最佳拍档,http://vip.auney.cn/api/huya.php?id=11342397
+金庸电影,http://vip.auney.cn/api/huya.php?id=11352897
+热血高校,http://vip.auney.cn/api/huya.php?id=11342402
+许氏电影,http://vip.auney.cn/api/huya.php?id=11602033
+第一滴血,http://vip.auney.cn/api/huya.php?id=11352934
+小丑电影,http://vip.auney.cn/api/huya.php?id=11352941
+外国电影,http://vip.auney.cn/api/huya.php?id=11342428
+游戏改编电影,http://vip.auney.cn/api/huya.php?id=10871113
+奥斯卡提名,http://vip.auney.cn/api/huya.php?id=11352969
+黑夜传说,http://vip.auney.cn/api/huya.php?id=11352881
+开心鬼,http://vip.auney.cn/api/huya.php?id=11342388
+香港霸王花,http://vip.auney.cn/api/huya.php?id=11352909
+爱情公寓,http://vip.auney.cn/api/huya.php?id=11336726
+武林外传,http://vip.auney.cn/api/huya.php?id=11352915
+插翅难逃,http://vip.auney.cn/api/huya.php?id=11352940
+神探狄仁杰,http://vip.auney.cn/api/huya.php?id=11352958
+家有儿女,http://vip.auney.cn/api/huya.php?id=11352872
+少年包青天,http://vip.auney.cn/api/huya.php?id=11342393
+好先生,http://vip.auney.cn/api/huya.php?id=11352973
+火蓝刀锋,http://vip.auney.cn/api/huya.php?id=11336592
+知否知否,http://vip.auney.cn/api/huya.php?id=11602068
+士兵突击,http://vip.auney.cn/api/huya.php?id=11342430
+搞笑一家人,http://vip.auney.cn/api/huya.php?id=11601978
+少帅,http://vip.auney.cn/api/huya.php?id=11342414
+生活大爆炸,http://vip.auney.cn/api/huya.php?id=11352959
+卫国无敌,http://vip.auney.cn/api/huya.php?id=11336578
+大宅门,http://vip.auney.cn/api/huya.php?id=11601982
+鹿鼎记陈小春,http://vip.auney.cn/api/huya.php?id=11352910
+炊事班的故事,http://vip.auney.cn/api/huya.php?id=11352895
+【轮番尾】
+
+结束
